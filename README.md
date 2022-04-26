@@ -1,11 +1,4 @@
-### Hi there 👋
-## Olá
-
-
-<!--
-**RayanePereira/RayanePereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here 
+### Olá, tudo bem? Seja bem vindx ao meu perfil, prazer em te conhecer, eu sou a Rayane!
 
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
@@ -15,4 +8,9 @@ Here
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... ela/dela - she/her
 - ⚡ Fun fact: .
--->
+
+<div align="center">
+  <a href="https://github.com/RayanePereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayanePereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanePereira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
