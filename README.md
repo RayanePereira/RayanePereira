@@ -1,12 +1,12 @@
 ### Olá, tudo bem? Seja bem vindx ao meu perfil, prazer em te conhecer, eu sou a Rayane!
 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... ela/dela - she/her
-- ⚡ Fun fact: .
+- 🌠 Ray, Ary or Ane
+- 🌸 Pronouns ela/dela - she/her
+- 🎂 19y
+- 💻 Web Developer
+- 🤓 Learning to act as a Full Stack developer
+- 💞 I love lofi
+- 🤩 I love animes
 
 <div align="center">
   <a href="https://github.com/RayanePereira">
