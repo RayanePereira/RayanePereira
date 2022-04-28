@@ -1,4 +1,5 @@
-### Olá, tudo bem? Seja bem vindx ao meu perfil, prazer em te conhecer, eu sou a Rayane!
+### Hello, how are you doing? Welcome to my profile. Nice to meet you, I'm Rayane!
+### Olá, tudo bem? Seja bem vindx ao meu perfil. Prazer em te conhecer, eu sou a Rayane!
 
 - 🌠 Ray, Ary or Ane
 - 🌸 Pronouns ela/dela - she/her
