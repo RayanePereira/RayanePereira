@@ -2,7 +2,7 @@
 ### Olá, tudo bem? Seja bem vindx ao meu perfil. Prazer em te conhecer, eu sou a Rayane!
 
 - 🌠 Ray, Ary or Ane
-- 🌸 Pronouns ela/dela - she/her
+- 🌸 Pronouns she/her
 - 🎂 19y
 - 💻 Web Developer
 - 🤓 Learning to act as a Full Stack developer
