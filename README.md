@@ -8,7 +8,7 @@
 - 🤓 Learning to act as a Full Stack developer
 - 💞 I love lofi
 - 🤩 I love animes
-- I love books
+- 📚 I love books
 
 <div style="display: inline_block"
      align="center"><br>
